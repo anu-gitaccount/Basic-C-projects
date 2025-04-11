@@ -1,4 +1,4 @@
-#Requirements
+## Requirements
 
 C language project Relatod Networking and Basic Data Structure Implementation (linked List, Stack , Queue).
 
@@ -19,4 +19,6 @@ C language project Relatod Networking and Basic Data Structure Implementation (l
 - unistd.h
 
 
-  ## 🚀 Getting Started
+## 🚀 Getting Started
+  - So my first Project is Linked List 
+  - A dynammic Data Structure to store data with help of Pointer 
